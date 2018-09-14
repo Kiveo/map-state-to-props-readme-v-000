@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux'; /* code change */
+import { connect } from 'react-redux'; /* allows us to use connect() */
 import './App.css';
 
 class App extends Component {
